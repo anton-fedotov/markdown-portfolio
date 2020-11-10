@@ -1,2 +1,2 @@
--Food
--Beverages
+*Food
+*Beverages
